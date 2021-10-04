@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\bin\Debug\Home1.2.exe.config
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\bin\Debug\Home1.2.exe
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\bin\Debug\Home1.2.pdb
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1.2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1._2.Form1.resources
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1._2.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1.2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1.2.exe
+C:\Users\Admin\Desktop\C#\Homework\Home1.2\obj\Debug\Home1.2.pdb
